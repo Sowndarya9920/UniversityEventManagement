@@ -43,6 +43,10 @@
 - ___@GetMapping , @PostMapping , @PutMapping , @DeleteMapping___ annotations are used to perform the CRUD operations.
 - ___@Valid___ is used in post mapping in order to do some validations while inserting the data.
 
+![image](https://user-images.githubusercontent.com/112794922/235489197-8a64c796-b17d-4454-9829-cdd2db76faf6.png)
+![image](https://user-images.githubusercontent.com/112794922/235489205-c654c3a9-61b3-451b-b955-5a986e1de8c0.png)
+
+
 
 
 
