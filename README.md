@@ -109,6 +109,10 @@
 - It consists of ___StudentService___ and ___EventService___ class which helps us to write the business functionalities.
 - ___@Service___ annotation is used to make the class as a service layer.
 
+![image](https://user-images.githubusercontent.com/112794922/235489415-1f5b39f4-864e-4868-a98e-4c02532c03ea.png)
+![image](https://user-images.githubusercontent.com/112794922/235489416-021509b7-eef4-41e8-ae38-1542810f4958.png)
+
+
 ## **Repository :**
 
 - It consists of ___StudentDao___ and ___EventDao___ which is used to manage or datas.
