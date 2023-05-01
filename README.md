@@ -22,12 +22,19 @@
 - Validations
 - H2 database
 
+![image](https://user-images.githubusercontent.com/112794922/235488804-512a46c9-6867-416f-ad30-412fb65fbc4f.png)
+
+
 ## **Data Flow :**
 
 ## **Model :** 
 
 - It consists of a  ___Studentclass___ and ___EventClass___ which consists of Entity's used to model our data application.
 - By using Lombok dependency , ___@Data___ , ___@AllArgsConstructor___ , ___@NoArgsConstructor___ is used to create getters and setters as well as default and parameterized constructors.
+
+![image](https://user-images.githubusercontent.com/112794922/235488840-8d9e9ede-673a-4c0c-9f94-0d913767887e.png)
+![image](https://user-images.githubusercontent.com/112794922/235488848-85d63ed2-6db4-4a31-81d1-4c885c447033.png)
+
 
 ## **Controller :**
 
