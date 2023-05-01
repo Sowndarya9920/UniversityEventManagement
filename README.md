@@ -141,3 +141,6 @@
 - The RestApi's are tested by using ___Postman___ which is a client used to test our Api's.
 - The data's were stored in the ___H2 database___ which is ___in-memory database___.
 
+![image](https://user-images.githubusercontent.com/112794922/235491885-58a0e058-fc5a-455a-a50d-f65e1e39c09d.png)
+
+
