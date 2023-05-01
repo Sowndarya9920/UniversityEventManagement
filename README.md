@@ -118,9 +118,16 @@
 - It consists of ___StudentDao___ and ___EventDao___ which is used to manage or datas.
 - ___@Repository___ annotation is used to make the class repository layer.
 
+![image](https://user-images.githubusercontent.com/112794922/235489727-e4cf2197-07aa-4b65-b0a1-d87114718c78.png)
+![image](https://user-images.githubusercontent.com/112794922/235489743-cba739b8-c0b5-47b1-8636-f0e19ec2d7cd.png)
+
+
 ## **Validations :** 
 - ___@Min___ and __@Max___ is used for validating the age which should be between ___18 - 25___.
 - ___@Pattern(regexp = "[A-Z]\\\\w*")___ is used for validating name which the first letter of the name must be ___capital___.
+
+![image](https://user-images.githubusercontent.com/112794922/235489770-0609a5b2-79c0-4d0a-96fc-0a9bfecc92a3.png)
+
 
 
 ## **Documentation :**
